@@ -1,0 +1,1 @@
+The challenge I faced while doing this project was where to implement and use adapter design pattern. So, I researched and solved this problem by using the adapter to select the size of a product and then using it inside the factory class to create an item with the specified size.
